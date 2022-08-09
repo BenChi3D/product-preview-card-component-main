@@ -127,7 +127,7 @@ button > img {
   max-height: 15px;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 430px) {
   .container {
     display: flex;
     flex-direction: column;
