@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [My process](#my-process)
+- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
@@ -26,12 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](images\screenshot.png)
+![Desktop Screenshot](.\images\screenshot.png)
+
+![Mobile Sceenshot](images\mobile-screenshot.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://benchi3d.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -39,13 +41,18 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flexbox Layout
 
 ### What I learned
 
+- I learnt how to manipulate the flexbox layout model, in order to come up with a replica of this design.
+
+- I learnt how to adjust the size of the `div` container in order to place the image side by side with the text container.
+
+- I learnt the effectuve usage of flexbox and making the model responsive for screen and mobile devices.
 
 ## Author
 
 - Website - [Benedict Chima Ogbulachi](https://www.linkedin.com/in/benedictchimaogbulachi/)
 - Frontend Mentor - [@BenChi3D](https://www.frontendmentor.io/profile/BenChi3D)
-- Twitter - [@yourusername](https://www.twitter.com/_bench3d)
+- Twitter - [@_bench3D](https://www.twitter.com/_bench3d)
