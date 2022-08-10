@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](.\images\screenshot.png)
+![Desktop Screenshot](images/image-product-desktop.jpg)
 
-![Mobile Sceenshot](images\mobile-screenshot.jpg)
+![Mobile Sceenshot](images/mobile-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution ](https://github.com/BenChi3D/product-preview-card-component-main)
 - Live Site URL: [live site](https://benchi3d.github.io/product-preview-card-component-main/)
 
 ## My process
@@ -49,8 +49,9 @@ Users should be able to:
 
 - I learnt how to adjust the size of the `div` container in order to place the image side by side with the text container.
 
-- I learnt the effectuve usage of flexbox and making the model responsive for screen and mobile devices.
+- I learnt the effective usage of flexbox and making the model responsive for screen and mobile devices.
 
+- I learnt how to hide and reveal images to match certain responsiveness for various devices.
 ## Author
 
 - Website - [Benedict Chima Ogbulachi](https://www.linkedin.com/in/benedictchimaogbulachi/)
